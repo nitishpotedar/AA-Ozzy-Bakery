@@ -1,4 +1,4 @@
-# AA-Ozzy-Bakery
+# Business Optimization
 
 The aim of the project is to apply analytical methods to practical business problems. Each team will need to identify and model a real-world optimization problem. The project entails applying the concepts from class to define the problem, build an optimization model, and solve it.
 
